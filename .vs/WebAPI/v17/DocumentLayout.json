@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B42C0CB0-B057-4B03-8FE3-9F9039CF4C50}|WebAPI.csproj|c:\\users\\user\\source\\repos\\webapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42C0CB0-B057-4B03-8FE3-9F9039CF4C50}|WebAPI.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42C0CB0-B057-4B03-8FE3-9F9039CF4C50}|WebAPI.csproj|c:\\users\\user\\source\\repos\\webapi\\models\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42C0CB0-B057-4B03-8FE3-9F9039CF4C50}|WebAPI.csproj|solutionrelative:models\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42C0CB0-B057-4B03-8FE3-9F9039CF4C50}|WebAPI.csproj|c:\\users\\user\\source\\repos\\webapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42C0CB0-B057-4B03-8FE3-9F9039CF4C50}|WebAPI.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42C0CB0-B057-4B03-8FE3-9F9039CF4C50}|WebAPI.csproj|c:\\users\\user\\source\\repos\\webapi\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42C0CB0-B057-4B03-8FE3-9F9039CF4C50}|WebAPI.csproj|solutionrelative:controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42C0CB0-B057-4B03-8FE3-9F9039CF4C50}|WebAPI.csproj|c:\\users\\user\\source\\repos\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B42C0CB0-B057-4B03-8FE3-9F9039CF4C50}|WebAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42C0CB0-B057-4B03-8FE3-9F9039CF4C50}|WebAPI.csproj|c:\\users\\user\\source\\repos\\webapi\\migrations\\companycontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42C0CB0-B057-4B03-8FE3-9F9039CF4C50}|WebAPI.csproj|solutionrelative:migrations\\companycontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42C0CB0-B057-4B03-8FE3-9F9039CF4C50}|WebAPI.csproj|c:\\users\\user\\source\\repos\\webapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42C0CB0-B057-4B03-8FE3-9F9039CF4C50}|WebAPI.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42C0CB0-B057-4B03-8FE3-9F9039CF4C50}|WebAPI.csproj|c:\\users\\user\\source\\repos\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B42C0CB0-B057-4B03-8FE3-9F9039CF4C50}|WebAPI.csproj|solutionrelative:webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42C0CB0-B057-4B03-8FE3-9F9039CF4C50}|WebAPI.csproj|c:\\users\\user\\source\\repos\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42C0CB0-B057-4B03-8FE3-9F9039CF4C50}|WebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42C0CB0-B057-4B03-8FE3-9F9039CF4C50}|WebAPI.csproj|c:\\users\\user\\source\\repos\\webapi\\migrations\\20240902215643_addforignkeytodepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42C0CB0-B057-4B03-8FE3-9F9039CF4C50}|WebAPI.csproj|solutionrelative:migrations\\20240902215643_addforignkeytodepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompanyContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebAPI\\Models\\CompanyContext.cs",
+              "RelativeDocumentMoniker": "Models\\CompanyContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebAPI\\Models\\CompanyContext.cs",
+              "RelativeToolTip": "Models\\CompanyContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T17:51:33.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebAPI\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebAPI\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T18:01:27.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebAPI\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebAPI\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T17:43:01.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebAPI\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebAPI\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T18:01:47.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CompanyContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebAPI\\Migrations\\CompanyContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\CompanyContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebAPI\\Migrations\\CompanyContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\CompanyContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T16:09:55.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-09T15:09:42.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240902215643_addforignkeytoDepartment.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebAPI\\Migrations\\20240902215643_addforignkeytoDepartment.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240902215643_addforignkeytoDepartment.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebAPI\\Migrations\\20240902215643_addforignkeytoDepartment.cs",
+              "RelativeToolTip": "Migrations\\20240902215643_addforignkeytoDepartment.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:56:43.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebAPI\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "WebAPI.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebAPI\\WebAPI.csproj",
+              "RelativeToolTip": "WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-02T17:43:34.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebAPI\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebAPI\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T17:42:42.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T17:12:03.161Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
